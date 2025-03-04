@@ -14,7 +14,6 @@
 
 ### How to Reach Me  
 📩 **Email**: aleenarayamajhi13@gmail.com  
- 
 💼 **LinkedIn**: https://www.linkedin.com/in/aleena-rayamajhi-879737154/  
 🌐 **Medium**: https://medium.com/@aleenarayamajhi13
 
