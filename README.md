@@ -6,7 +6,6 @@
 
 ### About Me  
 - PhD Student in **Biological and Agricultural Engineering** at the **University of Georgia**  
-- Passionate about **robotics, deep learning, and precision agriculture**  
 - Exploring **UAVs, LiDAR, computer vision, and stereo vision** to improve **precision agriculture**
 - Currently working on **improving mechanized harvesting of onions**  
 
